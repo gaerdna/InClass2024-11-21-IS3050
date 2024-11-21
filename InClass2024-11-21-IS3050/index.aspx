@@ -11,6 +11,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
+            <asp:Label ID="lblHelloWorld" runat="server" Text="HelloWorld"></asp:Label>
         </div>
     </form>
 </body>

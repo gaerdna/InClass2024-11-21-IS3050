@@ -12,5 +12,11 @@ namespace InClass2024_11_21_IS3050
             Console.WriteLine("Hello from HelloWorld.SayHello()");
 
         }
+
+        public static void SayHello2()
+        {
+            Console.WriteLine("Hello from HelloWorld.SayHello()");
+
+        }
     }
 }
